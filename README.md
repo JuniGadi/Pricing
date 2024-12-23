@@ -1,2 +1,0 @@
-# Pricing
-Junigadi Pricing Page
